@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # VM
 
 TODO: Write a gem description
@@ -29,3 +30,7 @@ TODO: Write usage instructions here
 3. Commit your changes (`git commit -am 'Add some feature'`)
 4. Push to the branch (`git push origin my-new-feature`)
 5. Create a new Pull Request
+=======
+# Synacore-Challenge
+Rewriting VM for the Synacore Challenge
+>>>>>>> deb20ec2b9bb609edec9152059015f61782dbfa7
